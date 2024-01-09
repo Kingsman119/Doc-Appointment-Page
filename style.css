@@ -1,0 +1,187 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+
+    .main{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+ }
+
+ .box1{
+    background-color: white;
+    height: 719px;
+    width: 775px;
+ }
+
+ .box3{
+   height: 35px;
+   width: 190px;
+   background-color: rgb(255, 255, 255);
+   margin: 120px 70px 0px;
+   border-radius: 20px;
+   border: 1px solid black;
+}
+
+.text1{
+   font-family: 'Poppins' ,serif;
+   font-weight: bold;
+   text-align: center;
+   margin-top: 4px;
+}
+
+.text2{
+   font-size: 35px;
+   font-family: 'Poppins' ,serif;
+   font-weight: bolder;
+   margin-top: 20px;
+   margin-left: 70px;
+   margin-right: 170px;
+   color:rgba(41,65,107,255);
+}
+
+.text3{
+   font-size: 15px;
+   font-family: 'Poppins' ,serif;
+   font-weight: 600;
+   margin-top: 20px;
+   margin-left: 70px;
+   margin-right: 50px;
+}
+
+.box4{
+   height: 150px;
+   width: 600px;
+   background-color: rgba(220,227,245,255);
+   margin: 20px 70px 0px;
+   display: flex;
+}
+
+.icon1{
+   color:rgba(88,105,166,255);
+   margin-left: 70px;
+   margin-top: 70px;
+}
+
+.text4{
+   font-size: 15px;
+   font-family: 'Poppins' ,serif;
+   font-weight: 400;
+   margin-top: 55px;
+   margin-left: 30px;
+}
+
+.text5{
+   font-size: 15px;
+   font-family: 'Poppins' ,serif;
+   font-weight: bolder;
+   margin-top: 72px;
+   margin-left: -100px;
+}
+
+.box5{
+   height: 150px;
+   width: 600px;
+   background-color: rgba(220,227,245,255);
+   margin: 20px 70px 0px;
+   display: flex;
+}
+
+.icon2{
+   color:rgba(88,105,166,255);
+   margin-left: 70px;
+   margin-top: 70px;
+}
+
+.text6{
+   font-size: 15px;
+   font-family: 'Poppins' ,serif;
+   font-weight: 400;
+   margin-top: 59px;
+   margin-left: 50px;
+}
+
+.text7{
+   font-size: 15px;
+   font-family: 'Poppins' ,serif;
+   font-weight: bolder;
+   margin-top: 75px;
+   margin-left: -120px;
+}
+
+ .box2{
+    background-color: rgba(220,227,245,255);
+    height: 710px;
+    width: 775px;
+ }
+
+ ::placeholder{
+   color: grey;
+ }
+
+ input[type=text] {
+   width: 350px;
+   height: 60px;
+   padding: 15px;
+   margin: 0px 10px 0px;
+   border-radius: 10px;
+   box-sizing: border-box;
+   border: 1px transparent;
+   font-size: 17px;
+ }
+
+ .box6{
+   margin: 170px 20px 0px;
+ }
+
+ .box7{
+   margin: -60px 400px;
+ }
+ .box8{
+  margin: 80px 20px; 
+ }
+
+ .box9{
+   margin: -140px 400px;
+ }
+
+ .box10{
+   margin: 160px 20px;
+ }
+
+ .box11{
+   margin: -221px 400px;
+ }
+
+ input[type=text1] {
+   width: 730px;
+   height: 200px;
+   padding: 15px;
+   margin: 0px 10px 0px;
+   border-radius: 10px;
+   box-sizing: border-box;
+   border: 1px transparent;
+   font-size: 17px;
+ }
+
+ .box12{
+   margin: 240px 20px;
+ }
+
+ input[type=submit] {
+   background-color: rgba(81,104,182,255);
+   color: white;
+   font-weight: bold;
+   border: none;
+   border-radius: 10px;
+   height: 40px;
+   width: 730px;
+   margin: 0px 0px 0px;
+   font-size: 15px;
+}
+
+.box13{
+   margin: -225px 30px 0px;
+}
